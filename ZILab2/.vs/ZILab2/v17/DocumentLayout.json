@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\source\\repos\\ZILab2\\",
+  "WorkspaceRootPath": "D:\\rererer\\GOST-89\\ZILab2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1285868-A889-46F7-91B7-C1AB41DA5EAA}|ZILab2\\ZILab2.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\source\\repos\\zilab2\\zilab2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1285868-A889-46F7-91B7-C1AB41DA5EAA}|ZILab2\\ZILab2.csproj|d:\\rererer\\gost-89\\zilab2\\zilab2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1285868-A889-46F7-91B7-C1AB41DA5EAA}|ZILab2\\ZILab2.csproj|solutionrelative:zilab2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1285868-A889-46F7-91B7-C1AB41DA5EAA}|ZILab2\\ZILab2.csproj|C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\source\\repos\\ZILab2\\zilab2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C1285868-A889-46F7-91B7-C1AB41DA5EAA}|ZILab2\\ZILab2.csproj|D:\\rererer\\GOST-89\\ZILab2\\zilab2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C1285868-A889-46F7-91B7-C1AB41DA5EAA}|ZILab2\\ZILab2.csproj|solutionrelative:zilab2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -40,11 +40,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\source\\repos\\ZILab2\\ZILab2\\Form1.cs",
+              "DocumentMoniker": "D:\\rererer\\GOST-89\\ZILab2\\ZILab2\\Form1.cs",
               "RelativeDocumentMoniker": "ZILab2\\Form1.cs",
-              "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\source\\repos\\ZILab2\\ZILab2\\Form1.cs",
+              "ToolTip": "D:\\rererer\\GOST-89\\ZILab2\\ZILab2\\Form1.cs",
               "RelativeToolTip": "ZILab2\\Form1.cs",
-              "ViewState": "AgIAAJcAAAAAAAAAAAAwwCMAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T07:55:43.11Z",
               "EditorCaption": ""
@@ -53,10 +53,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\source\\repos\\ZILab2\\ZILab2\\Form1.cs",
+              "DocumentMoniker": "D:\\rererer\\GOST-89\\ZILab2\\ZILab2\\Form1.cs",
               "RelativeDocumentMoniker": "ZILab2\\Form1.cs",
               "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\source\\repos\\ZILab2\\ZILab2\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "ZILab2\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T07:55:35.254Z"
             }
