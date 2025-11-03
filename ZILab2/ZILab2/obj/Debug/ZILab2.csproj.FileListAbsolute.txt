@@ -1,0 +1,13 @@
+C:\Users\Михаил\source\repos\ZILab2\ZILab2\bin\Debug\ZILab2.exe.config
+C:\Users\Михаил\source\repos\ZILab2\ZILab2\bin\Debug\ZILab2.exe
+C:\Users\Михаил\source\repos\ZILab2\ZILab2\bin\Debug\ZILab2.pdb
+C:\Users\Михаил\source\repos\ZILab2\ZILab2\obj\Debug\ZILab2.csproj.AssemblyReference.cache
+C:\Users\Михаил\source\repos\ZILab2\ZILab2\obj\Debug\ZILab2.Properties.Resources.resources
+C:\Users\Михаил\source\repos\ZILab2\ZILab2\obj\Debug\ZILab2.csproj.GenerateResource.cache
+C:\Users\Михаил\source\repos\ZILab2\ZILab2\obj\Debug\ZILab2.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\ZILab2\ZILab2\obj\Debug\ZILab2.exe
+C:\Users\Михаил\source\repos\ZILab2\ZILab2\obj\Debug\ZILab2.pdb
+C:\Users\Михаил\source\repos\ZILab2\ZILab2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Михаил\source\repos\ZILab2\ZILab2\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Михаил\source\repos\ZILab2\ZILab2\obj\Debug\ZILab2.Form1.resources
+C:\Users\Михаил\source\repos\ZILab2\ZILab2\obj\Debug\ZILab2.csproj.Up2Date

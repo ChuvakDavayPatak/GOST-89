@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\source\\repos\\ZILab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1285868-A889-46F7-91B7-C1AB41DA5EAA}|ZILab2\\ZILab2.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\source\\repos\\zilab2\\zilab2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1285868-A889-46F7-91B7-C1AB41DA5EAA}|ZILab2\\ZILab2.csproj|solutionrelative:zilab2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1285868-A889-46F7-91B7-C1AB41DA5EAA}|ZILab2\\ZILab2.csproj|C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\source\\repos\\ZILab2\\zilab2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C1285868-A889-46F7-91B7-C1AB41DA5EAA}|ZILab2\\ZILab2.csproj|solutionrelative:zilab2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\source\\repos\\ZILab2\\ZILab2\\Form1.cs",
+              "RelativeDocumentMoniker": "ZILab2\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\source\\repos\\ZILab2\\ZILab2\\Form1.cs",
+              "RelativeToolTip": "ZILab2\\Form1.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAwwCMAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:55:43.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\source\\repos\\ZILab2\\ZILab2\\Form1.cs",
+              "RelativeDocumentMoniker": "ZILab2\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\source\\repos\\ZILab2\\ZILab2\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ZILab2\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:55:35.254Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
